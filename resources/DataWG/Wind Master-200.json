@@ -1,0 +1,19 @@
+{
+  "P": 200,
+  "Cos": "0.3",
+  "WheelDiameter": "22.5",
+  "Vanes": 3,
+  "RotationFrequency": 48,
+  "OperatingSpeedRange": {
+    "nom": "15",
+    "min": "5",
+    "max": 24
+  },
+  "U": 400,
+  "F": 50,
+  "SurfaceArea": 397,
+  "InstallationHeight": "21.7",
+  "TypeWG": false,
+  "WorkWithNetwork": true,
+  "nameImage": "v200.jpg"
+}

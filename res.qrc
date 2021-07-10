@@ -1,0 +1,60 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/DataWG/Bonus-100.json</file>
+        <file>Resources/DataWG/BWC-10.json</file>
+        <file>Resources/DataWG/HWP-60.json</file>
+        <file>Resources/DataWG/ListOfWindGenerator.json</file>
+        <file>Resources/DataWG/Wind Master-200.json</file>
+        <file>Resources/DataWG/Wind Master-300.json</file>
+        <file>Resources/DataWG/Wind Master-400.json</file>
+        <file>Resources/Image_WG/v10.jpg</file>
+        <file>Resources/Image_WG/v20.jpg</file>
+        <file>Resources/Image_WG/v60.jpg</file>
+        <file>Resources/Image_WG/v100.jpg</file>
+        <file>Resources/Image_WG/v200.jpg</file>
+        <file>Resources/Image_WG/v300.jpg</file>
+        <file>Resources/Image_WG/v400.jpg</file>
+        <file>Resources/Image_WG/vneiz.jpg</file>
+        <file>Resources/Image_WG/vneiz2.jpg</file>
+        <file>Resources/Icon/checkmark-ok.png</file>
+        <file>Resources/Icon/launch_2075.ico</file>
+        <file>Resources/Icon/launch_4388.png</file>
+        <file>Resources/Icon/warning-blink.gif</file>
+        <file>Resources/model/disel.jpg</file>
+        <file>Resources/model/wind_generator.gif</file>
+        <file>Resources/model/wind_generator.png</file>
+        <file>Resources/Icon/check.png</file>
+        <file>Resources/Icon/check1.png</file>
+        <file>Resources/model/lp1.png</file>
+        <file>Resources/model/electricity.jpg</file>
+        <file>Resources/model/kisspng-battery-charger.jpg</file>
+        <file>Resources/model/battery.png</file>
+        <file>Resources/model/birds.jpg</file>
+        <file>Resources/model/disel_2.jpg</file>
+        <file>Resources/model/electrical_line.jpg</file>
+        <file>Resources/model/farm.jpg</file>
+        <file>Resources/model/garage.jpg</file>
+        <file>Resources/model/greenhouse_2.png</file>
+        <file>Resources/model/гараж_2.png</file>
+        <file>Resources/model/Цех_3.png</file>
+        <file>Resources/model/животноводческий комплекс_2.png</file>
+        <file>Resources/model/птичник_2.png</file>
+        <file>Resources/model/Админ здание.png</file>
+        <file>Resources/model/Птичник_22.png</file>
+        <file>Resources/model/теплица_4.png</file>
+        <file>Resources/model/дома.png</file>
+        <file>Resources/model/battery_1.jpg</file>
+        <file>Resources/model/unnamed.jpg</file>
+        <file>Resources/Icon/save.png</file>
+        <file>Resources/Icon/agt_forward_4629.png</file>
+        <file>Resources/Icon/back_9138.png</file>
+        <file>Resources/Icon/information_3120.png</file>
+        <file>Resources/DataWG/Lines.json</file>
+        <file>Resources/Icon/sliders1.PNG</file>
+        <file>Resources/DataWG/Other.json</file>
+        <file>Resources/DataWG/Not selected.json</file>
+        <file>Resources/Diesel/ListDiesel.json</file>
+        <file>Resources/Diesel/У98.json</file>
+        <file>Resources/Diesel/У99.json</file>
+    </qresource>
+</RCC>

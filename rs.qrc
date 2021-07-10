@@ -1,0 +1,168 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/DataWG/Bonus-100.json</file>
+        <file>Resources/DataWG/BWC-10.json</file>
+        <file>Resources/DataWG/HWP-60.json</file>
+        <file>Resources/DataWG/Lines.json</file>
+        <file>Resources/DataWG/ListOfWindGenerator.json</file>
+        <file>Resources/DataWG/Not selected.json</file>
+        <file>Resources/DataWG/Other.json</file>
+        <file>Resources/DataWG/wg.lab</file>
+        <file>Resources/DataWG/Wind Master-200.json</file>
+        <file>Resources/DataWG/Wind Master-300.json</file>
+        <file>Resources/DataWG/Wind Master-400.json</file>
+        <file>Resources/Diesel/ListDiesel.json</file>
+        <file>Resources/Diesel/Not selected.json</file>
+        <file>Resources/Diesel/Другая марка дизеля.json</file>
+        <file>Resources/Diesel/У34н.json</file>
+        <file>Resources/Diesel/У36н.json</file>
+        <file>Resources/Diesel/У64.json</file>
+        <file>Resources/Diesel/У72М.json</file>
+        <file>Resources/Diesel/У98.json</file>
+        <file>Resources/Diesel/У99.json</file>
+        <file>Resources/Fuse/ListFuse.json</file>
+        <file>Resources/Fuse/Другой предохранитель.json</file>
+        <file>Resources/Fuse/Пр-ль марки ПН2-100  (Iном=100А).json</file>
+        <file>Resources/Fuse/Пр-ль марки ПН2-250  (Iном=250А).json</file>
+        <file>Resources/Fuse/Пр-ль марки ПН2-400  (Iном=400А).json</file>
+        <file>Resources/Fuse/Пр-ль марки ПП-57  (Iном=630А).json</file>
+        <file>Resources/Fuse/Пр-ль марки ПП-57  (Iном=800А).json</file>
+        <file>Resources/Fuse/Пр-ль марки ПР-2  (Iном=15А).json</file>
+        <file>Resources/Fuse/Пр-ль марки ПР-2  (Iном=60А).json</file>
+        <file>Resources/Fuse/Пр-ль марки ПРC-25  (Iном=25А).json</file>
+        <file>Resources/Fuse/Пр-ль марки ПРС-10 (Iном=10А).json</file>
+        <file>Resources/Fuse/Пр-ль марки ПФ-2 (Iном=6А).json</file>
+        <file>Resources/Icon/2conected.png</file>
+        <file>Resources/Icon/5241.png</file>
+        <file>Resources/Icon/52411.png</file>
+        <file>Resources/Icon/accept.png</file>
+        <file>Resources/Icon/accept2.png</file>
+        <file>Resources/Icon/agt_forward_4629.png</file>
+        <file>Resources/Icon/back_9138.png</file>
+        <file>Resources/Icon/cancel.png</file>
+        <file>Resources/Icon/CircuitBreakerOff.png</file>
+        <file>Resources/Icon/CircuitBreakerOn.png</file>
+        <file>Resources/Icon/conected.png</file>
+        <file>Resources/Icon/contact.png</file>
+        <file>Resources/Icon/contactorOff.png</file>
+        <file>Resources/Icon/contactorOn.png</file>
+        <file>Resources/Icon/diesel1.png</file>
+        <file>Resources/Icon/disconnector.png</file>
+        <file>Resources/Icon/Downloads_Folder.png</file>
+        <file>Resources/Icon/entire2.png</file>
+        <file>Resources/Icon/exelIcon.png</file>
+        <file>Resources/Icon/gen2.png</file>
+        <file>Resources/Icon/information_3120.png</file>
+        <file>Resources/Icon/launch_4388.png</file>
+        <file>Resources/Icon/motor.png</file>
+        <file>Resources/Icon/motor2.png</file>
+        <file>Resources/Icon/save.png</file>
+        <file>Resources/Icon/stop.png</file>
+        <file>Resources/Icon/warning4.png</file>
+        <file>Resources/Icon/wg.jpg</file>
+        <file>Resources/Icon/wg2.jpg</file>
+        <file>Resources/Icon/wg3.png</file>
+        <file>Resources/Icon/wind_engine.ico</file>
+        <file>Resources/Icon/Инвертор3.png</file>
+        <file>Resources/Icon/Предохранитель1.png</file>
+        <file>Resources/Icon/разделка.png</file>
+        <file>Resources/Image_Diesel/d1-16.jpg</file>
+        <file>Resources/Image_Diesel/d2-30.jpg</file>
+        <file>Resources/Image_Diesel/d3-100.png</file>
+        <file>Resources/Image_Diesel/d4-200.jpg</file>
+        <file>Resources/Image_Diesel/d5-200.png</file>
+        <file>Resources/Image_Diesel/d6-315.jpg</file>
+        <file>Resources/Image_Diesel/d16.png</file>
+        <file>Resources/Image_Fuses/PF2.jpg</file>
+        <file>Resources/Image_Fuses/PH2.jpg</file>
+        <file>Resources/Image_Fuses/PH2-250.jpg</file>
+        <file>Resources/Image_Fuses/PH2-400.jpg</file>
+        <file>Resources/Image_Fuses/PP57.jpg</file>
+        <file>Resources/Image_Fuses/PP57-800.jpg</file>
+        <file>Resources/Image_Fuses/PPneiz.jpg</file>
+        <file>Resources/Image_Fuses/Pr2.jpg</file>
+        <file>Resources/Image_Fuses/Prc10.jpg</file>
+        <file>Resources/Image_Fuses/Prc25.jpg</file>
+        <file>Resources/Image_Fuses/PVneiz.jpg</file>
+        <file>Resources/Image_Fuses/PVprPF2.jpg</file>
+        <file>Resources/Image_Fuses/PVprPH2.jpg</file>
+        <file>Resources/Image_Fuses/PVprPP57.jpg</file>
+        <file>Resources/Image_Fuses/PVprPr2.jpg</file>
+        <file>Resources/Image_WG/v10.jpg</file>
+        <file>Resources/Image_WG/v20.jpg</file>
+        <file>Resources/Image_WG/v60.jpg</file>
+        <file>Resources/Image_WG/v100.jpg</file>
+        <file>Resources/Image_WG/v200.jpg</file>
+        <file>Resources/Image_WG/v300.jpg</file>
+        <file>Resources/Image_WG/v400.jpg</file>
+        <file>Resources/Image_WG/vneiz.jpg</file>
+        <file>Resources/Image_WG/vneiz2.jpg</file>
+        <file>Resources/model/admin_house.jpg</file>
+        <file>Resources/model/battery_1.jpg</file>
+        <file>Resources/model/cow.jpg</file>
+        <file>Resources/model/disel.jpg</file>
+        <file>Resources/model/garage5.jpg</file>
+        <file>Resources/model/houses.jpg</file>
+        <file>Resources/model/houses2jpg.jpg</file>
+        <file>Resources/model/line3.png</file>
+        <file>Resources/model/new_admin_house.jpg</file>
+        <file>Resources/model/new_battery_1.jpg</file>
+        <file>Resources/model/new_cow.jpg</file>
+        <file>Resources/model/new_disel.jpg</file>
+        <file>Resources/model/new_garage5.jpg</file>
+        <file>Resources/model/new_houses2jpg.jpg</file>
+        <file>Resources/model/new_line3.png</file>
+        <file>Resources/model/new_ptichnikov.jpg</file>
+        <file>Resources/model/new_shop5.jpg</file>
+        <file>Resources/model/new_tepl.jpg</file>
+        <file>Resources/model/new_unnamed.jpg</file>
+        <file>Resources/model/new2_battery_1.jpg</file>
+        <file>Resources/model/new3_battery_1.jpg</file>
+        <file>Resources/model/newWG.gif</file>
+        <file>Resources/model/ptichnikov.jpg</file>
+        <file>Resources/model/Screenshot_13.png</file>
+        <file>Resources/model/Screenshot_14.png</file>
+        <file>Resources/model/Screenshot_15.png</file>
+        <file>Resources/model/Screenshot_16.png</file>
+        <file>Resources/model/Screenshot_17.png</file>
+        <file>Resources/model/shop5.jpg</file>
+        <file>Resources/model/tepl.jpg</file>
+        <file>Resources/model/unnamed.jpg</file>
+        <file>Resources/model/vg.gif</file>
+        <file>Resources/model/wg.gif</file>
+        <file>Resources/model/wind_generator.png</file>
+        <file>Resources/model/zarst.jpg</file>
+        <file>Resources/wgg.lab</file>
+        <file>Resources/Image_Diesel/another.jpeg</file>
+        <file>Resources/DataWG/SEEWIND-100.json</file>
+        <file>Resources/Image_WG/seewind.jpg</file>
+        <file>Resources/DataWG/TACKE TW-250.json</file>
+        <file>Resources/Image_WG/TW-250.png</file>
+        <file>Resources/DataWG/AN Bonus 150.json</file>
+        <file>Resources/Image_WG/Bonus150.jpg</file>
+        <file>Resources/DataWires/A16.json</file>
+        <file>Resources/DataWires/A25.json</file>
+        <file>Resources/DataWires/A35.json</file>
+        <file>Resources/DataWires/A50.json</file>
+        <file>Resources/DataWires/A70.json</file>
+        <file>Resources/DataWires/A95.json</file>
+        <file>Resources/DataWires/ListOfWire.json</file>
+        <file>Resources/DataWires/Not selected.json</file>
+        <file>Resources/DataWires/СИП-2 3х16+1х25.json</file>
+        <file>Resources/DataWires/СИП-2 3х25+1х35.json</file>
+        <file>Resources/DataWires/СИП-2 3х35+1х50.json</file>
+        <file>Resources/DataWires/СИП-2 3х50+1х50.json</file>
+        <file>Resources/DataWires/СИП-2 3х70+1х70.json</file>
+        <file>Resources/DataWires/СИП-2 3х95+1х70.json</file>
+        <file>Resources/DataWires/СИП-2 3х120+1х95.json</file>
+        <file>Resources/model/LineImage.png</file>
+        <file>Resources/DataWires/ВВГнг 4x70.json</file>
+        <file>Resources/DataWires/ВВГнг 4x95.json</file>
+        <file>Resources/DataWires/ВВГнг 4x120.json</file>
+        <file>Resources/DataWires/ВВГнг 4x150.json</file>
+        <file>Resources/DataWires/ВВГнг 4x185.json</file>
+        <file>Resources/DataWires/ВВГнг 4x240.json</file>
+        <file>Resources/Image_Diesel/125.png</file>
+        <file>Resources/Diesel/АД-125.json</file>
+    </qresource>
+</RCC>

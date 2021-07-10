@@ -1,0 +1,19 @@
+{
+  "P": 0,
+  "Cos": "00",
+  "WheelDiameter": "0",
+  "Vanes": 0,
+  "RotationFrequency": 0,
+  "OperatingSpeedRange": {
+    "nom": "0",
+    "min": "0",
+    "max": 0
+  },
+  "U": 0,
+  "F": 0,
+  "SurfaceArea": 0,
+  "InstallationHeight": "0",
+  "TypeWG": false,
+  "WorkWithNetwork": false,
+  "nameImage": "no Image"
+}

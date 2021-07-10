@@ -1,0 +1,19 @@
+{
+  "P": 400,
+  "Cos": "0.3",
+  "WheelDiameter": "34.8",
+  "Vanes": 3,
+  "RotationFrequency": 35,
+  "OperatingSpeedRange": {
+    "nom": "18",
+    "min": "5",
+    "max": 25
+  },
+  "U": 415,
+  "F": 50,
+  "SurfaceArea": 951,
+  "InstallationHeight": "30",
+  "TypeWG": false,
+  "WorkWithNetwork": true,
+  "nameImage": "v400.jpg"
+}

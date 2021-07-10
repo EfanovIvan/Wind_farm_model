@@ -1,0 +1,64 @@
+{
+  "Wires": [
+    {
+      "path": ":/Resources/DataWires/Not selected.json"
+    },
+    {
+      "path": ":/Resources/DataWires/A16.json"
+    },
+    {
+      "path": ":/Resources/DataWires/A25.json"
+    },
+    {
+      "path": ":/Resources/DataWires/A35.json"
+    },
+    {
+      "path": ":/Resources/DataWires/A50.json"
+    },
+    {
+      "path": ":/Resources/DataWires/A70.json"
+    },
+    {
+      "path": ":/Resources/DataWires/A95.json"
+    },
+    {
+      "path": ":/Resources/DataWires/ÑÈÏ-2 3õ16+1õ25.json"
+    },
+    {
+      "path": ":/Resources/DataWires/ÑÈÏ-2 3õ25+1õ35.json"
+    },
+    {
+      "path": ":/Resources/DataWires/ÑÈÏ-2 3õ35+1õ50.json"
+    },
+    {
+      "path": ":/Resources/DataWires/ÑÈÏ-2 3õ50+1õ50.json"
+    },
+    {
+      "path": ":/Resources/DataWires/ÑÈÏ-2 3õ70+1õ70.json"
+    },
+    {
+      "path": ":/Resources/DataWires/ÑÈÏ-2 3õ95+1õ70.json"
+    },
+    {
+      "path": ":/Resources/DataWires/ÑÈÏ-2 3õ120+1õ95.json"
+    },
+    {
+      "path": ":/Resources/DataWires/ÂÂÃíã 4x70.json"
+    },
+    {
+      "path": ":/Resources/DataWires/ÂÂÃíã 4x95.json"
+    },
+    {
+      "path": ":/Resources/DataWires/ÂÂÃíã 4x120.json"
+    },
+    {
+      "path": ":/Resources/DataWires/ÂÂÃíã 4x150.json"
+    },
+    {
+      "path": ":/Resources/DataWires/ÂÂÃíã 4x185.json"
+    },
+    {
+      "path": ":/Resources/DataWires/ÂÂÃíã 4x240.json"
+    }
+  ] 
+}

@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/new/prefix1"/>
+    <qresource prefix="/">
+        <file>Resources/wind_generator.png</file>
+        <file>Resources/disel.jpg</file>
+        <file>Resources/3.gif</file>
+        <file>Resources/wind_generator.gif</file>
+        <file>Resources/delete.gif</file>
+        <file>Resources/warning-blink.gif</file>
+        <file>Resources/warning-1.gif</file>
+        <file>Resources/ok.gif</file>
+        <file>Resources/DataWG/Bonus-100.json</file>
+        <file>clickablelabel.cpp</file>
+        <file>clickablelabel.h</file>
+        <file>main.cpp</file>
+        <file>mainwindow.cpp</file>
+        <file>mainwindow.h</file>
+        <file>tabindex.h</file>
+        <file>Resources/launch_4388.png</file>
+        <file>Resources/launch_2075.ico</file>
+        <file>Resources/DataWG/ListOfWindGenerator.json</file>
+        <file>Resources/DataWG/BWC-10.json</file>
+        <file>Resources/DataWG/HWP-60.json</file>
+        <file>Resources/DataWG/Wind Master-200.json</file>
+        <file>Resources/DataWG/Wind Master-300.json</file>
+        <file>Resources/DataWG/Wind Master-400.json</file>
+        <file>Resources/Image_WG/v10.JPG</file>
+        <file>Resources/Image_WG/v20.jpg</file>
+        <file>Resources/Image_WG/v60.jpg</file>
+        <file>Resources/Image_WG/v100.JPG</file>
+        <file>Resources/Image_WG/v200.jpg</file>
+        <file>Resources/Image_WG/v300.jpg</file>
+        <file>Resources/Image_WG/v400.jpg</file>
+        <file>Resources/Image_WG/vneiz.jpg</file>
+        <file>Resources/Image_WG/vneiz2.jpg</file>
+    </qresource>
+</RCC>

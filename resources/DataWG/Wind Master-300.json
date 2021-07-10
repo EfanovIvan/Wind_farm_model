@@ -1,0 +1,19 @@
+{
+  "P": 300,
+  "Cos": "0.3",
+  "WheelDiameter": "25",
+  "Vanes": 3,
+  "RotationFrequency": 52,
+  "OperatingSpeedRange": {
+    "nom": "15.5",
+    "min": "5",
+    "max": 24
+  },
+  "U": 400,
+  "F": 50,
+  "SurfaceArea": 490,
+  "InstallationHeight": "29.2",
+  "TypeWG": false,
+  "WorkWithNetwork": true,
+  "nameImage": "v300.jpg"
+}

@@ -1,0 +1,19 @@
+{
+  "P": 100,
+  "Cos": "0.3",
+  "WheelDiameter": "14.3",
+  "Vanes": 3,
+  "RotationFrequency": 42,
+  "OperatingSpeedRange": {
+    "nom": "13",
+    "min": "4",
+    "max": 28
+  },
+  "U": 415,
+  "F": 50,
+  "SurfaceArea": 292,
+  "InstallationHeight": "24",
+  "TypeWG": true,
+  "WorkWithNetwork": true,
+  "nameImage": "v100.jpg"
+}

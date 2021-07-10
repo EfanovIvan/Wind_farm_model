@@ -1,0 +1,37 @@
+{
+  "Fuses": [
+    {
+      "path": ":/Resources/Fuse/Другой предохранитель.json"
+    },
+    {
+      "path": ":/Resources/Fuse/Пр-ль марки ПФ-2 (Iном=6А).json"
+    },
+    {
+      "path": ":/Resources/Fuse/Пр-ль марки ПРС-10 (Iном=10А).json"
+    },
+    {
+      "path": ":/Resources/Fuse/Пр-ль марки ПР-2  (Iном=15А).json"
+    },
+    {
+      "path": ":/Resources/Fuse/Пр-ль марки ПРC-25  (Iном=25А).json"
+    },
+    {
+      "path": ":/Resources/Fuse/Пр-ль марки ПР-2  (Iном=60А).json"
+    },
+    {
+      "path": ":/Resources/Fuse/Пр-ль марки ПН2-100  (Iном=100А).json"
+    },
+    {
+      "path": ":/Resources/Fuse/Пр-ль марки ПН2-250  (Iном=250А).json"
+    },
+    {
+      "path": ":/Resources/Fuse/Пр-ль марки ПН2-400  (Iном=400А).json"
+    },
+    {
+      "path": ":/Resources/Fuse/Пр-ль марки ПП-57  (Iном=630А).json"
+    },
+    {
+      "path": ":/Resources/Fuse/Пр-ль марки ПП-57  (Iном=800А).json"
+    }
+  ] 
+}

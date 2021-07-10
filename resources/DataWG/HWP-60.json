@@ -1,0 +1,19 @@
+{
+  "P": 60,
+  "Cos": "0.3",
+  "WheelDiameter": "15",
+  "Vanes": 3,
+  "RotationFrequency": 50,
+  "OperatingSpeedRange": {
+    "nom": "13",
+    "min": "3.7",
+    "max": 26
+  },
+  "U": 400,
+  "F": 50,
+  "SurfaceArea": 215,
+  "InstallationHeight": "20",
+  "TypeWG": false,
+  "WorkWithNetwork": true,
+  "nameImage": "v60.jpg"
+}

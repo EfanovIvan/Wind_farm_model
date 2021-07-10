@@ -1,0 +1,19 @@
+{
+  "P": 110,
+  "Cos": "0.3",
+  "WheelDiameter": "22",
+  "Vanes": 3,
+  "RotationFrequency": 35,
+  "OperatingSpeedRange": {
+    "nom": "20",
+    "min": "2.8",
+    "max": 25
+  },
+  "U": 400,
+  "F": 50,
+  "SurfaceArea": 380,
+  "InstallationHeight": "34",
+  "TypeWG": false,
+  "WorkWithNetwork": true,
+  "nameImage": "seewind.jpg"
+}

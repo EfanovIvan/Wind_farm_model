@@ -1,0 +1,19 @@
+{
+  "P": 150,
+  "Cos": "0.3",
+  "WheelDiameter": "23.8",
+  "Vanes": 3,
+  "RotationFrequency": 40,
+  "OperatingSpeedRange": {
+    "nom": "12",
+    "min": "4",
+    "max": 25
+  },
+  "U": 400,
+  "F": 50,
+  "SurfaceArea": 445,
+  "InstallationHeight": "30.0",
+  "TypeWG": false,
+  "WorkWithNetwork": true,
+  "nameImage": "Bonus150.jpg"
+}

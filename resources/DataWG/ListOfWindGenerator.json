@@ -1,0 +1,38 @@
+{
+  "WGs": [
+    {
+      "path": ":/Resources/DataWG/Not selected.json"
+    },
+    {
+      "path": ":/Resources/DataWG/Other.json"
+    },
+    {
+      "path": ":/Resources/DataWG/Bonus-100.json"
+    },
+    {
+      "path": ":/Resources/DataWG/BWC-10.json"
+    },
+    {
+      "path": ":/Resources/DataWG/HWP-60.json"
+    },
+    {
+      "path": ":/Resources/DataWG/SEEWIND-100.json"
+    },
+    {
+      "path": ":/Resources/DataWG/AN Bonus 150.json"
+    },
+    {
+      "path": ":/Resources/DataWG/TACKE TW-250.json"
+    },
+    {
+      "path": ":/Resources/DataWG/Wind Master-200.json"
+    },
+    {
+      "path": ":/Resources/DataWG/Wind Master-300.json"
+    },
+    {
+      "path": ":/Resources/DataWG/Wind Master-400.json"
+    }
+
+  ] 
+}

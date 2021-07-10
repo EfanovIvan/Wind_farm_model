@@ -1,0 +1,19 @@
+{
+  "P": 250,
+  "Cos": "0.3",
+  "WheelDiameter": "26",
+  "Vanes": 3,
+  "RotationFrequency": 35,
+  "OperatingSpeedRange": {
+    "nom": "14",
+    "min": "3",
+    "max": 25
+  },
+  "U": 415,
+  "F": 50,
+  "SurfaceArea": 531,
+  "InstallationHeight": "55",
+  "TypeWG": true,
+  "WorkWithNetwork": true,
+  "nameImage": "TW-250.png"
+}

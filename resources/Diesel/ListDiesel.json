@@ -1,0 +1,31 @@
+{
+  "List": [
+    {
+      "path": ":/Resources/Diesel/Not selected.json"
+    },
+    {
+      "path": ":/Resources/Diesel/Другая марка дизеля.json"
+    },
+    {
+      "path": ":/Resources/Diesel/У98.json"
+    },
+    {
+      "path": ":/Resources/Diesel/У99.json"
+    },
+    {
+      "path": ":/Resources/Diesel/У34н.json"
+    },
+    {
+      "path": ":/Resources/Diesel/У36н.json"
+    },
+    {
+      "path": ":/Resources/Diesel/У72М.json"
+    },
+    {
+      "path": ":/Resources/Diesel/У64.json"
+    },
+    {
+      "path": ":/Resources/Diesel/АД-125.json"
+    }
+  ] 
+}
